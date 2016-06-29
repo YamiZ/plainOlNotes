@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Plain Ol\' Notes</string>
+    <string name="create_sample_data">Create sample data</string>
+    <string name="delete_all">Delete All Notes</string>
+    <string name="all_deleted">All Notes Deleted</string>
+    <string name="are_you_sure">Are You Sure?</string>
+    <string name="title_activity_editor">EditorActivity</string>
+    <string name="New_note">New note</string>
+    <string name="note_updated">Note Updated</string>
+    <string name="action_delete">Delete</string>
+    <string name="note_deleted">Note Deleted</string>
+    <string name="note">note</string>
+    <string name="enter_note_here">Enter note here</string>
+</resources>
